@@ -1,6 +1,6 @@
-### [150 microns](https://printerzero.blogspot.com/2013/11/150-microns.html)
+**Latest Achievement: 0.15mm Layer Height**
 
-Latest achievment 0.15mm layer :)  
+I'm excited to announce that I've achieved a 0.15mm layer height in my recent 3D printing projects! This finer resolution allows for smoother surfaces and more detailed prints. Below are some photos showcasing the quality of the prints at this layer height.
   
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBhK9vLXkOI4-t6JfpjIws_opPVVFFtviykxn5TKkGjXr5YbVtTE-eDB27uc9FsJ5vZBrxYUenAyGkqBZU1pd7Eti33I_F_iW7laUTvvUvJ-oUUaCGKplUVuY9OBMasLtUOolY2h4tgu8/s320/Butterfly_nut_2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBhK9vLXkOI4-t6JfpjIws_opPVVFFtviykxn5TKkGjXr5YbVtTE-eDB27uc9FsJ5vZBrxYUenAyGkqBZU1pd7Eti33I_F_iW7laUTvvUvJ-oUUaCGKplUVuY9OBMasLtUOolY2h4tgu8/s1600/Butterfly_nut_2.jpg)  
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQljk4JsiTFAKRNGjT76MLUSwvzzTixhJVVUxq2QJl7tcU4ieg_sTaqmxs11Uo1CobI5I6Q9qkNP0giK4O0ylvbcOyDq_H7dfaaic4yVcANaYC7nU_qFsZegKS2ZLKdYhH8cCDOMQsDNM/s320/Butterfly_nut_1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQljk4JsiTFAKRNGjT76MLUSwvzzTixhJVVUxq2QJl7tcU4ieg_sTaqmxs11Uo1CobI5I6Q9qkNP0giK4O0ylvbcOyDq_H7dfaaic4yVcANaYC7nU_qFsZegKS2ZLKdYhH8cCDOMQsDNM/s1600/Butterfly_nut_1.jpg)  
